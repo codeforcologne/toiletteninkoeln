@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+ <address>
+  <uid>1005483</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Biergarten Rathenauplatz]]></name>
+  <street><![CDATA[Rathenauplatz]]></street>
+  <area>Neustadt-Süd</area>
+  <zipcode>50674</zipcode>
+  <city>Köln</city>
+  <coordinates>50.931407,6.935809</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Biergarten Rathenauplatz]]></cardname>
+  <cardnamegb><![CDATA[Biergarten Rathenauplatz]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsbebühr: Kostenlos;Ein Trinkgeld ist freiwillig.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; Tips are voluntary.; ]]></descriptiongb>
+  <opening><![CDATA[Geöffnet in der Sommersaison von April bis September bei schönem Wetter.]]></opening>
+  <openinggb><![CDATA[Opened during summer season from April to September when the weather is nice.]]></openinggb>
+  <start>2015-04-01</start>
+  <stop>2015-09-30</stop>
+  <image></image>
+  <infrastructure>3,4,7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005482</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Claudius Therme GmbH & Co. KG]]></name>
+  <street><![CDATA[Sachsenbergstraße 1]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.950646,6.980567</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Claudius Therme]]></cardname>
+  <cardnamegb><![CDATA[Claudius Therme]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 9.00 - 24.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun:9.00 a.m. to 00.00 a.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>1,7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005481</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Kolpinghotel am Römerturm]]></name>
+  <street><![CDATA[St.-Apern-Straße 32]]></street>
+  <area>Altstadt-Nord</area>
+  <zipcode>50677</zipcode>
+  <city>Köln</city>
+  <coordinates>50.939739,6.946174</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Kolpinghotel at Römerturm]]></cardname>
+  <cardnamegb><![CDATA[Kolpinghotel at Römerturm]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Täglich 12.00 - 24.00 Uhr]]></opening>
+  <openinggb><![CDATA[Daily from 12.00 p.m. to  12.00 a.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>1,4,7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005480</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Poller Fischerhaus]]></name>
+  <street><![CDATA[Weidenweg 46]]></street>
+  <area>Poll</area>
+  <zipcode>51105</zipcode>
+  <city>Köln</city>
+  <coordinates>50.903134,6.992216</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Poller Fischerhaus]]></cardname>
+  <cardnamegb><![CDATA[Poller Fischerhaus]]></cardnamegb>
+  <district>Porz</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Toiletten stehen nur während der Saison von April bis einschließlich September zur Verfügung.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;Toilets are only available during summer season from april to the end of september.; ]]></descriptiongb>
+  <opening><![CDATA[Täglich 12.00 - 24.00 Uhr]]></opening>
+  <openinggb><![CDATA[Daily from 12.00 p.m. to  12.00 a.m.]]></openinggb>
+  <start>2015-04-01</start>
+  <stop>2015-09-30</stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_HTK_Poller_Fischerhaus_6f794e1ab5.jpg</image>
+  <infrastructure>1,3,4,7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005479</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Reissdorf am Hahnentor]]></name>
+  <street><![CDATA[Hahnenstraße 24]]></street>
+  <area>Altstadt-Nord</area>
+  <zipcode>50677</zipcode>
+  <city>Köln</city>
+  <coordinates>50.936382,6.940863</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Reissdorf am Hahnentor]]></cardname>
+  <cardnamegb><![CDATA[Reissdorf am Hahnentor]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Wenn eine WC-Dame anwesend ist, wird eine Nutzungsgebühr von 0,50 € erhoben.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;In case of maintnance, custormers will be charged €0.50.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Do: 11.30 - 23.00 Uhr;Fr. - So: 12.00 - 23.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Thu: 11.30 a.m. to 11.00 p.m.;Fri - Sun: 12.00 p.m. to 11 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_HTK_Reissdorf_Hahnentor_41d1a6ee6d.jpg</image>
+  <infrastructure>4,7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005478</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[CrossFit Cologne GmbH]]></name>
+  <street><![CDATA[Maarweg 132]]></street>
+  <area>Ehrenfeld</area>
+  <zipcode>50825</zipcode>
+  <city>Köln</city>
+  <coordinates>50.943814,6.898611</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[CrossFit Cologne]]></cardname>
+  <cardnamegb><![CDATA[CrossFit Cologne]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo +  Mi: 6.30 - 22.30 Uhr, Di + Do: 8.30 - 22.30 Uhr, Fr: 6.30 - 21.30;Sa: 9.30 - 17.30 Uhr, So: 9.30 - 15.30 Uhr]]></opening>
+  <openinggb><![CDATA[Mon + Wed: 6.30 a.m. to 10.30 p.m., Tue + Thu: 8.30 a.m. to 22.30 p.m., Fri: 6.30 a.m. to 9.30 p.m.;Sat: 9.30 a.m. to 5.30 p.m., Sun: 9.30 a.m. to 12.00 a.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_HTK_Cross_Fit_Cologne_698858febf.jpg</image>
+  <infrastructure>1,3,7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005433</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[City-Toilette]]></name>
+  <street><![CDATA[Zülpicher Platz]]></street>
+  <area>Altstadt-Süd</area>
+  <zipcode>50674</zipcode>
+  <city>Köln</city>
+  <coordinates>50.930008,6.939421</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[City-Toilette]]></cardname>
+  <cardnamegb><![CDATA[City toilet]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €;Das Urinal ist kostenlos nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €0.50;Urinal is free of charge.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: durchgehend geöffnet]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 24 hours]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_CWC_Zuelpicher_Platz_5dbf6ff92c.jpg</image>
+  <infrastructure>1,2,3,4,5,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005431</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[City-Toilette]]></name>
+  <street><![CDATA[Brüsseler Platz]]></street>
+  <area>Altstadt-Nord</area>
+  <zipcode>50674</zipcode>
+  <city>Köln</city>
+  <coordinates>50.938306,6.934572000000003</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[City-Toilette]]></cardname>
+  <cardnamegb><![CDATA[City toilet]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €;Das Urinal ist kostenlos nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €0.50;Urinal is free of charge.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: durchgehend geöffnet]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 24 hours]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_CWC_Bruesseler_Platz_214f3eef83.jpg</image>
+  <infrastructure>1,2,3,4,5,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005428</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Rodenkirchener Riviera Ost]]></name>
+  <street><![CDATA[Uferstraße 41]]></street>
+  <area>Rodenkirchen</area>
+  <zipcode>50996</zipcode>
+  <city>Köln</city>
+  <coordinates>50.892059,7.011247</coordinates>
+  <phone></phone>
+  <cardname><![CDATA[Rodenkirchener Riviera Ost]]></cardname>
+  <cardnamegb><![CDATA[Rodenkirchener Riviera East]]></cardnamegb>
+  <district>Rodenkirchen</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Die Toilettenkabine der Mobiltoilette sind behindertengerecht und für gehbehinderte Personen nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage fee: free of Charge; The toilet cabin of this mobile toilet is also accessible to people in wheelchairs or with walking disabilities.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 08.00 - 22.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 10 p.m.]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_Riviera_Ost_c832cdfed4.jpg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005427</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Rodenkirchener Riviera West]]></name>
+  <street><![CDATA[Uferstraße 24]]></street>
+  <area>Rodenkirchen</area>
+  <zipcode>50996</zipcode>
+  <city>Köln</city>
+  <coordinates>50.892519,7.004906</coordinates>
+  <phone></phone>
+  <cardname><![CDATA[Rodenkirchener Riviera West]]></cardname>
+  <cardnamegb><![CDATA[Rodenkirchener Riviera West]]></cardnamegb>
+  <district>Rodenkirchen</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Die Toilettenkabine der Mobiltoilette sind behindertengerecht und für gehbehinderte Personen nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage fee: free of Charge; The toilet cabin of this mobile toilet is also accessible to people in wheelchairs or with walking disabilities.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 08.00 - 22.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 10 p.m.]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_Riviera_West_c08c8f20b9.jpg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005426</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Poller Wiesen Süd]]></name>
+  <street><![CDATA[Alfred-Schütte Allee 20]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.919203,6.977655</coordinates>
+  <phone></phone>
+  <cardname><![CDATA[Poller Wiesen Süd]]></cardname>
+  <cardnamegb><![CDATA[Poller Wiesen South]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Die Toilettenkabine der Mobiltoilette sind behindertengerecht und für gehbehinderte Personen nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage fee: free of Charge; The toilet cabin of this mobile toilet is also accessible to people in wheelchairs or with walking disabilities.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 08.00 - 22.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 10 p.m.]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_Poller_Wiesen_Sued_1baa1aeee3.jpg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005425</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Poller Wiesen Nord]]></name>
+  <street><![CDATA[Alfred-Schütte Allee 2]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.926886,6.972634</coordinates>
+  <phone></phone>
+  <cardname><![CDATA[Poller Wiesen Nord]]></cardname>
+  <cardnamegb><![CDATA[Poller Wiesen North]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Die Toilettenkabine der Mobiltoilette sind behindertengerecht und für gehbehinderte Personen nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage fee: free of Charge; The toilet cabin of this mobile toilet is also accessible to people in wheelchairs or with walking disabilities.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 08.00 - 22.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 10 p.m.]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_Poller_Wiesen_Drehbruecke_79866937a3.jpg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005424</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Merheimer Heide Spielplatz]]></name>
+  <street><![CDATA[Merheimer Heideweg]]></street>
+  <area>Merheim</area>
+  <zipcode>51103</zipcode>
+  <city>Köln</city>
+  <coordinates>50.945783,7.033788</coordinates>
+  <phone></phone>
+  <cardname><![CDATA[Merheimer Heide Spielplatz]]></cardname>
+  <cardnamegb><![CDATA[Merheimer Heide playground]]></cardnamegb>
+  <district>Kalk</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Die Toilettenkabine der Mobiltoilette sind behindertengerecht und für gehbehinderte Personen nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage fee: free of Charge; The toilet cabin of this mobile toilet is also accessible to people in wheelchairs or with walking disabilities.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 08.00 - 22.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 10 p.m.]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_Merheimer_Heide_Spielplatz_9ac09f0692.jpg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005477</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Hohenzollernbrücke (Mobile Toilette )]]></name>
+  <street><![CDATA[Kennedyufer]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.941951,6.969362</coordinates>
+  <phone></phone>
+  <cardname><![CDATA[Hohenzollernbrücke (Mobile Toilette)]]></cardname>
+  <cardnamegb><![CDATA[Hohenzollern Bridge (mobile toilet)]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €; ]]></description>
+  <descriptiongb><![CDATA[Usage fee: €0.50; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 11.00 - 17.00 Uhr;Sa - So: 11:00 - 18:00;Heiligabend (24.12): 8.00 - 16.00 Uhr;Neujahr (1.1.): 10.00 - 18.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 11 a.m. to 5 p.m.;Sat - Sun: 11 a.m. to 6 p.m.;Christmas Eve (24.12.): 8 a.m. to 4 p.m.;New Year (1.1.): 10 a.m. to 6 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_2015_Hohenzollernbruecke_80224841bf.jpg</image>
+  <infrastructure>1,3,4,8,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005415</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Mülheim]]></name>
+  <street><![CDATA[Wiener Platz  2 - 4]]></street>
+  <area>Mülheim</area>
+  <zipcode>51065</zipcode>
+  <city>Köln</city>
+  <coordinates>50.961319,7.004526</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Mülheim]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Mülheim]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Bezirksrathauses.]]></opening>
+  <openinggb><![CDATA[During opening hours of the destrict town hall.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/93.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005414</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Dellbrück]]></name>
+  <street><![CDATA[Thurner Straße  6]]></street>
+  <area>Dellbrück</area>
+  <zipcode>51069</zipcode>
+  <city>Köln</city>
+  <coordinates>50.974648,7.077360</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Dellbrück]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Dellbrück]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/100.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005413</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Stammheim]]></name>
+  <street><![CDATA[Stammheimer Ring  111]]></street>
+  <area>Stammheim</area>
+  <zipcode>51061</zipcode>
+  <city>Köln</city>
+  <coordinates>50.988300,6.991358</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Stammheim]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Stammheim]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/99.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005412</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Flittard]]></name>
+  <street><![CDATA[Hubertusstraße  8]]></street>
+  <area>Flittard</area>
+  <zipcode>51061</zipcode>
+  <city>Köln</city>
+  <coordinates>51.000496,6.975536</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Flittard]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Flittard]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/98.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005411</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Dünnwald]]></name>
+  <street><![CDATA[Goffineweg]]></street>
+  <area>Dünnwald</area>
+  <zipcode>51069</zipcode>
+  <city>Köln</city>
+  <coordinates>51.007259,7.028554</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Dünnwald]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Dünnwald]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/96.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005410</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Ostfriedhof]]></name>
+  <street><![CDATA[Dellbrücker Mauspfad 125-129]]></street>
+  <area>Dellbrück</area>
+  <zipcode>51069</zipcode>
+  <city>Köln</city>
+  <coordinates>50.964432,7.072811</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Ostfriedhof]]></cardname>
+  <cardnamegb><![CDATA[Cologne East Cemetary]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/95.jpeg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005409</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Holweide]]></name>
+  <street><![CDATA[Burgwiesenstraße  93]]></street>
+  <area>Holweide</area>
+  <zipcode>51067</zipcode>
+  <city>Köln</city>
+  <coordinates>50.965122,7.044167</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Holweide]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Holweide]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/94.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005408</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bürgerhaus Kalk]]></name>
+  <street><![CDATA[Kalk-Mülheimer-Str. 58]]></street>
+  <area>Kalk</area>
+  <zipcode>51103</zipcode>
+  <city>Köln</city>
+  <coordinates>50.939991,7.001420</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bürgerhaus Kalk]]></cardname>
+  <cardnamegb><![CDATA[Community Centre Kalk]]></cardnamegb>
+  <district>Kalk</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Do: 9.00 - 18.00 Uhr, Fr: 9.00 - 14.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Thu: 9 a.m. to 6 p.m., Fri: 9 a.m. to 2 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005407</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Kalk Karree Köln]]></name>
+  <street><![CDATA[Ottmar-Pohl-Platz  3]]></street>
+  <area>Kalk</area>
+  <zipcode>51105</zipcode>
+  <city>Köln</city>
+  <coordinates>50.935226,7.003942</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Kalk Karree Köln]]></cardname>
+  <cardnamegb><![CDATA[Kalk Karree Cologne]]></cardnamegb>
+  <district>Kalk</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Kalk Karrees.]]></opening>
+  <openinggb><![CDATA[During opening hours of Kalk Karree.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/87-1.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005406</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Kalk]]></name>
+  <street><![CDATA[Kalker Hauptstraße  247]]></street>
+  <area>Kalk</area>
+  <zipcode>51103</zipcode>
+  <city>Köln</city>
+  <coordinates>50.939003,7.008619</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Kalk]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Kalk]]></cardnamegb>
+  <district>Kalk</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Bezirksrathauses.]]></opening>
+  <openinggb><![CDATA[During opening hours of the destrict town hall.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/86.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005405</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Brück]]></name>
+  <street><![CDATA[Lehmbacher Weg]]></street>
+  <area>Brück</area>
+  <zipcode>51109</zipcode>
+  <city>Köln</city>
+  <coordinates>50.933552,7.079539</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Brück]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Brück]]></cardnamegb>
+  <district>Kalk</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/195.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005404</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Kalk (Merheim)]]></name>
+  <street><![CDATA[Kratzweg  34]]></street>
+  <area>Merheim</area>
+  <zipcode>51109</zipcode>
+  <city>Köln</city>
+  <coordinates>50.944546,7.044158</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Kalk (Merheim) ]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Kalk (Merheim) ]]></cardnamegb>
+  <district>Kalk</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/91.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005403</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Mülheim]]></name>
+  <street><![CDATA[Frankfurter Straße  293]]></street>
+  <area>Höhenberg</area>
+  <zipcode>51103</zipcode>
+  <city>Köln</city>
+  <coordinates>50.947269,7.023283</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Mülheim]]></cardname>
+  <cardnamegb><![CDATA[Cemetery Mülheim]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/90.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005402</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Kfz-Zulassungsstelle Porz]]></name>
+  <street><![CDATA[Max-Glomsda-Straße 4]]></street>
+  <area>Porz</area>
+  <zipcode>51105</zipcode>
+  <city>Köln</city>
+  <coordinates>50.923145,6.996249</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Kfz-Zulassungsstelle Porz]]></cardname>
+  <cardnamegb><![CDATA[Vehical Registration Office Porz]]></cardnamegb>
+  <district>Porz</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten der Zulassungsstelle.]]></opening>
+  <openinggb><![CDATA[During opening hours of the registration office.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/75.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005401</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Porz]]></name>
+  <street><![CDATA[Friedrich-Ebert-Ufer 70]]></street>
+  <area>Porz</area>
+  <zipcode>51143</zipcode>
+  <city>Köln</city>
+  <coordinates>50.885365,7.054183</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Porz]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Porz]]></cardnamegb>
+  <district>Porz</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Mi, Fr: 7.30 - 12.00 Uhr, Di: 9.30 - 18.00 Uhr, Do: 7.30 - 16.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Wed, Fri: 7.30 a.m. to 12 p.m., Tue: 9.30 a.m. to 6 p.m., Thu: 7.30 a.m. to 4 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/74-1.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005400</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Deutz]]></name>
+  <street><![CDATA[Rolshover Kirchweg 86]]></street>
+  <area>Poll</area>
+  <zipcode>51105</zipcode>
+  <city>Köln</city>
+  <coordinates>50.921517,6.988319</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Deutz]]></cardname>
+  <cardnamegb><![CDATA[Cemetery Deutz]]></cardnamegb>
+  <district>Porz</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/80.jpeg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005399</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Chorweiler]]></name>
+  <street><![CDATA[Pariser Platz 1]]></street>
+  <area>Chorweiler</area>
+  <zipcode>50765</zipcode>
+  <city>Köln</city>
+  <coordinates>51.021950,6.898242</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Chorweiler]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Chorweiler]]></cardnamegb>
+  <district>Chorweiler</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Nur während der Öffnungszeiten des Bezirksrathauses.]]></opening>
+  <openinggb><![CDATA[During opening hours of the destrict town hall.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/69.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005398</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Fühlinger See / Parkplatz P1]]></name>
+  <street><![CDATA[Oranjehofstr. 105]]></street>
+  <area>Fühlingen</area>
+  <zipcode>50769</zipcode>
+  <city>Köln</city>
+  <coordinates>51.021740,6.892948</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Fühlinger See / Parkplatz P1]]></cardname>
+  <cardnamegb><![CDATA[Fühlinger See / Parking area P1]]></cardnamegb>
+  <district>Chorweiler</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Das WC-Gebäude befindet sich auf dem Parkplatz P1.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;The toilet facilies are situated at parking area P1.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 8.00 - 20.00 Uhr;Nur geöffnet vom 01. Mai bis 15. September.]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 8 p.m.;Toilets only available from 1st of May to 15th of September]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image></image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005397</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Fühlinger See / Parkplatz P5]]></name>
+  <street><![CDATA[Merianstraße  1]]></street>
+  <area>Fühlingen</area>
+  <zipcode>50769</zipcode>
+  <city>Köln</city>
+  <coordinates>51.028347,6.911759</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Fühlinger See / Parkplatz P5]]></cardname>
+  <cardnamegb><![CDATA[Fühlinger See / Parking area P5]]></cardnamegb>
+  <district>Chorweiler</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Das WC-Gebäude befindet sich auf dem Parkplatz P5.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;The toilet facilies are situated at parking area P5.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 8.00 - 20.00 Uhr; Nur geöffnet vom 01. Mai bis 15. September.]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 8 p.m.;Toilets only available from 1st of May to 15th of September]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/193.jpeg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005396</uid>
+  <type><![CDATA[Toilette in Grünanlagen]]></type>
+  <name><![CDATA[Bootshaus Fühlinger See]]></name>
+  <street><![CDATA[Oranjehofstraße 105]]></street>
+  <area>Fühlingen</area>
+  <zipcode>50769</zipcode>
+  <city>Köln</city>
+  <coordinates>51.021568,6.929986</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bootshaus Fühlinger See]]></cardname>
+  <cardnamegb><![CDATA[Boathouse Fühlinger See]]></cardnamegb>
+  <district>Chorweiler</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Nur geöffnet vom 01. Mai bis 15. September.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;Only available from the 1st of May to the 15th of September.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 8.00 - 20.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 8 p.m.]]></openinggb>
+  <start>2015-05-01</start>
+  <stop>2015-09-15</stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/72.jpeg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005395</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Chorweiler]]></name>
+  <street><![CDATA[Thujaweg 12]]></street>
+  <area>Volkhoven / Weiler</area>
+  <zipcode>50765</zipcode>
+  <city>Köln</city>
+  <coordinates>51.018417,6.878399</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Chorweiler]]></cardname>
+  <cardnamegb><![CDATA[Cemetery Chorweiler]]></cardnamegb>
+  <district>Chorweiler</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/71.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005394</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Flora / Botanischer Garten]]></name>
+  <street><![CDATA[Am Botanischen Garten]]></street>
+  <area>Riehl</area>
+  <zipcode>50735</zipcode>
+  <city>Köln</city>
+  <coordinates>50.959110,6.972451</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Flora / Botanischer Garten]]></cardname>
+  <cardnamegb><![CDATA[Flora / Botanical Garden]]></cardnamegb>
+  <district>Nippes</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 8.00 Uhr bis Eintritt der Dunkelheit]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8.00 a.m. to  sunset]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/61.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005393</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Nippes]]></name>
+  <street><![CDATA[Neusser Straße 452]]></street>
+  <area>Weidenpesch</area>
+  <zipcode>50733</zipcode>
+  <city>Köln</city>
+  <coordinates>50.972645,6.951424</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Nippes]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Nippes]]></cardnamegb>
+  <district>Nippes</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Mi, Fr: 7.30 - 12.00 Uhr;Di: 9.30 - 18.00 Uhr;Do: 7.30 - 16.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Wed, Fri: 7.30 a.m. to 12.00 p.m.;Tue: 9.30 a.m. to 6.00 p.m.;Thu: 7.30 a.m. to 4.00 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/58.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005392</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Em Golde Kappes]]></name>
+  <street><![CDATA[Neusser Str. 295]]></street>
+  <area>Nippes</area>
+  <zipcode>50733</zipcode>
+  <city>Köln</city>
+  <coordinates>50.965307,6.953536</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Em Golde Kappes]]></cardname>
+  <cardnamegb><![CDATA[Em Golde Kappes]]></cardnamegb>
+  <district>Nippes</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Sa: 11.00 - 24.00 Uhr;So: geschlossen]]></opening>
+  <openinggb><![CDATA[Mon - Sat: 11.00 a.m. to Midnight;Sun: closed]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005391</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Nordfriedhof]]></name>
+  <street><![CDATA[Merheimer Straße 463]]></street>
+  <area>Weidenpesch</area>
+  <zipcode>50735</zipcode>
+  <city>Köln</city>
+  <coordinates>50.977375,6.945670</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Nordfriedhof]]></cardname>
+  <cardnamegb><![CDATA[Cologne North Cemetary]]></cardnamegb>
+  <district>Nippes</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/65.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005390</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Neuer Nordfriedhof]]></name>
+  <street><![CDATA[Schmiedegasse 58]]></street>
+  <area>Weidenpesch</area>
+  <zipcode>50735</zipcode>
+  <city>Köln</city>
+  <coordinates>50.978767,6.941526</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Neuer Nordfriedhof]]></cardname>
+  <cardnamegb><![CDATA[Cologne New North Cemetary]]></cardnamegb>
+  <district>Nippes</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/64.jpeg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005389</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Longerich]]></name>
+  <street><![CDATA[Alexander-Petöfi-Platz]]></street>
+  <area>Longerich</area>
+  <zipcode>50739</zipcode>
+  <city>Köln</city>
+  <coordinates>50.995338,6.911028</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Longerich]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Longerich]]></cardnamegb>
+  <district>Nippes</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/62.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005388</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[City-Toilette]]></name>
+  <street><![CDATA[Schlackstr.]]></street>
+  <area>Longerich</area>
+  <zipcode>50737</zipcode>
+  <city>Köln</city>
+  <coordinates>50.995084,6.920048</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Longerich Markt]]></cardname>
+  <cardnamegb><![CDATA[Longerich Market]]></cardnamegb>
+  <district>Nippes</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Die Toilette befindet sich auf dem Markt in Longerich.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;Toilet is situated at the market square in Longerich.; ]]></descriptiongb>
+  <opening><![CDATA[Nur zu Marktzeiten geöffnet.]]></opening>
+  <openinggb><![CDATA[Only opened during opening hours of the market.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>5,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005387</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Stadtteilbibliothek Ehrenfeld]]></name>
+  <street><![CDATA[Subbelrather Straße  249]]></street>
+  <area>Ehrenfeld</area>
+  <zipcode>50825</zipcode>
+  <city>Köln</city>
+  <coordinates>50.953945,6.919326</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Stadtteilbibliothek Ehrenfeld]]></cardname>
+  <cardnamegb><![CDATA[Public Library Ehrenfeld]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Mi: 12.00 - 18.00 Uhr;Do: 11.00 - 19.00 Uhr;Fr: 10.00 - 18.00 Uhr;Sa: 10.00 - 14.00 Uhr;Dienstag geschlossen]]></opening>
+  <openinggb><![CDATA[Mon, Wed: 12 a.m. to 6 p.m.;Thu: 11 a.m. to 7 p.m.;Fri: 10 a.m. to 6 p.m.;Sat: 10 a.m. to 2 p.m.;Tue: Closed]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/216.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005386</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Ehrenfeld]]></name>
+  <street><![CDATA[Venloer Straße  419]]></street>
+  <area>Ehrenfeld</area>
+  <zipcode>50825</zipcode>
+  <city>Köln</city>
+  <coordinates>50.952099,6.913416</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Ehrenfeld]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Ehrenfeld]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Mi, Fr: 7.30 - 12.00 Uhr;Di: 9.30 - 18.00 Uhr;Do: 7.30 - 16.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Wed, Fri: 7.30 a.m. to 12.00 p.m.;Tue: 9.30 a.m. to 6.00 p.m.;Thu: 7.30 a.m. to 4.00 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/54.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005385</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Kletterfabrik Köln]]></name>
+  <street><![CDATA[Oskar-Jäger-Str. 173]]></street>
+  <area>Ehrenfeld</area>
+  <zipcode>50825</zipcode>
+  <city>Köln</city>
+  <coordinates>50.947958,6.906809</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Kletterfabrik Köln]]></cardname>
+  <cardnamegb><![CDATA[Kletterfabrik Köln]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 9.30 - 23.30 Uhr;Sa und So: 10.00 - 22.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri:9.30 a.m. to 11.30 p.m.; Sat and Sun: 10.00 a.m. to 10.00 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005384</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Trauerhalle Piusstraße (Friedhof Melaten)]]></name>
+  <street><![CDATA[Piusstr  177]]></street>
+  <area>Ehrenfeld</area>
+  <zipcode>50931</zipcode>
+  <city>Köln</city>
+  <coordinates>50.939384,6.921949</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Trauerhalle Piusstraße (Friedhof Melaten)]]></cardname>
+  <cardnamegb><![CDATA[Mourning Hall Piusstrasse]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/45.jpeg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005383</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Westfriedhof]]></name>
+  <street><![CDATA[Venloer Str. 1132]]></street>
+  <area>Vogelsang</area>
+  <zipcode>50829</zipcode>
+  <city>Köln</city>
+  <coordinates>50.968044,6.878633</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Westfriedhof]]></cardname>
+  <cardnamegb><![CDATA[Cologne West Cemetary]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005382</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Westfriedhof Trauerhalle]]></name>
+  <street><![CDATA[Venloer Straße  1079]]></street>
+  <area>Vogelsang</area>
+  <zipcode>50829</zipcode>
+  <city>Köln</city>
+  <coordinates>50.968399,6.875672</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Westfriedhof Trauerhalle]]></cardname>
+  <cardnamegb><![CDATA[Mourning Hall West Cemetary]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/56.jpeg</image>
+  <infrastructure>1,8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005381</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Wildpark Lindenthal]]></name>
+  <street><![CDATA[Stadtwald]]></street>
+  <area>Lindenthal</area>
+  <zipcode>50935</zipcode>
+  <city>Köln</city>
+  <coordinates>50.931692,6.903464</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Wildpark Lindenthal]]></cardname>
+  <cardnamegb><![CDATA[Wildlife Park Lindenthal]]></cardnamegb>
+  <district>Lindenthal</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Sa: 8.00 - 18.00 Uhr;So + Feiertag: 9.00 - 18.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sat: 8 a.m. to 6 p.m.;Sun + public holidays: 9 a.m. to 6 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005380</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Lindenthal]]></name>
+  <street><![CDATA[Aachener Straße 220]]></street>
+  <area>Lindenthal</area>
+  <zipcode>50931</zipcode>
+  <city>Köln</city>
+  <coordinates>50.937477,6.912183</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Lindenthal]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Lindenthal]]></cardnamegb>
+  <district>Lindenthal</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Bezirksrathauses.]]></opening>
+  <openinggb><![CDATA[During opening hours of the destrict town hall.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/44.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005379</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Neuer Friedhof Weiden]]></name>
+  <street><![CDATA[Albert-Kindle-Straße 36]]></street>
+  <area>Weiden</area>
+  <zipcode>50859</zipcode>
+  <city>Köln</city>
+  <coordinates>50.940407,6.820954</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Weiden]]></cardname>
+  <cardnamegb><![CDATA[Cemetary Weiden]]></cardnamegb>
+  <district>Lindenthal</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/46.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005378</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Melaten]]></name>
+  <street><![CDATA[Aachener Straße  304]]></street>
+  <area>Lindenthal</area>
+  <zipcode>50931</zipcode>
+  <city>Köln</city>
+  <coordinates>50.936981,6.915958</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Melaten]]></cardname>
+  <cardnamegb><![CDATA[Melaten Cemetary ]]></cardnamegb>
+  <district>Lindenthal</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/42.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005377</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Stadtteilbibliothek Rodenkirchen]]></name>
+  <street><![CDATA[Schillingsrotter Straße  38]]></street>
+  <area>Rodenkirchen</area>
+  <zipcode>50996</zipcode>
+  <city>Köln</city>
+  <coordinates>50.889244,6.992040</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Stadtbibliothek Rodenkirchen ]]></cardname>
+  <cardnamegb><![CDATA[Public library Rodenkirchen ]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten der Bibliothek.]]></opening>
+  <openinggb><![CDATA[During opening hours of the library.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/191.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005376</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Großmarkt Köln]]></name>
+  <street><![CDATA[Marktstraße 10]]></street>
+  <area>Raderberg</area>
+  <zipcode>50968</zipcode>
+  <city>Köln</city>
+  <coordinates>50.912724,6.959113</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Großmarkt Köln]]></cardname>
+  <cardnamegb><![CDATA[Cologne Wholesale Market]]></cardnamegb>
+  <district></district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 8.00 - 12.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 12 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/43.jpeg</image>
+  <infrastructure>6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005375</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Brauhaus Quetsch]]></name>
+  <street><![CDATA[Hauptstr. 7]]></street>
+  <area>Rodenkirchen</area>
+  <zipcode>50996</zipcode>
+  <city>Köln</city>
+  <coordinates>50.896710,6.990847</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Brauhaus Quetsch]]></cardname>
+  <cardnamegb><![CDATA[Brauhaus Quetsch]]></cardnamegb>
+  <district>Rodenkirchen</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Täglich: 11.30 - 0.30 Uhr]]></opening>
+  <openinggb><![CDATA[Daily from 11.30 a.m. to 0.30 a.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005365</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Fachhochschule Köln]]></name>
+  <street><![CDATA[Ubierring 40]]></street>
+  <area>Neustadt Süd</area>
+  <zipcode>50678</zipcode>
+  <city>Köln</city>
+  <coordinates>50.921570,6.963521</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Fachhochschule Köln]]></cardname>
+  <cardnamegb><![CDATA[Cologne University of Applied Sciences]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 7.00 - 23.00 Uhr;Sa: 8.00 - 14.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 7 a.m. to 11 p.m.;Sat: 8 a.m to 2 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/234.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005370</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Fachhochschule Köln]]></name>
+  <street><![CDATA[Ubierring 48]]></street>
+  <area>Neustadt Süd</area>
+  <zipcode>50678</zipcode>
+  <city>Köln</city>
+  <coordinates>50.922031,6.965057</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Fachhochschule Köln]]></cardname>
+  <cardnamegb><![CDATA[Cologne University of Applied Sciences]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 7.00 - 23.00 Uhr;Sa: 8.00 - 14.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 7 a.m. to 11 p.m.;Sat: 8 a.m to 2 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/235.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005371</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Fachhochschule Köln]]></name>
+  <street><![CDATA[Claudiusstraße 1]]></street>
+  <area>Neustadt Süd</area>
+  <zipcode>50678</zipcode>
+  <city>Köln</city>
+  <coordinates>50.919369,6.966857</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Fachhochschule Köln]]></cardname>
+  <cardnamegb><![CDATA[Cologne University of Applied Sciences]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 7.00 - 23.00 Uhr, Sa: 8.00 - 14.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 7 a.m. to 11 p.m.;Sat: 8 a.m to 2 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/236-1.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005364</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[City-Toilette]]></name>
+  <street><![CDATA[Urban Str./Ecke Mindener Str.]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.938425,6.970702</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[City-Toilette]]></cardname>
+  <cardnamegb><![CDATA[City toilet]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €;Das Urinal ist kostenlos nutzbar.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €0.50;Urinal is free of charge.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: durchgehend geöffnet]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 24 hours]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_AWB_Citytoilette_Urbanstr_Mindenerstr._b848f72440.jpg</image>
+  <infrastructure>1,2,3,4,5,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005363</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[Urilift Rheinauhafen]]></name>
+  <street><![CDATA[Severinsbrücke]]></street>
+  <area>Altstadt-Süd</area>
+  <zipcode>50678</zipcode>
+  <city>Köln</city>
+  <coordinates>50.930279,6.964935</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Urilift Rheinauhafen]]></cardname>
+  <cardnamegb><![CDATA[Urilift Rheinauhafen]]></cardnamegb>
+  <district></district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Versenkbarer Urilift.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;Pop-up urinal.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 20.00 - 6.30 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 p.m. to 6.30 a.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/120.jpeg</image>
+  <infrastructure>4,5,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005360</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Südfriedhof]]></name>
+  <street><![CDATA[Höninger Platz  25]]></street>
+  <area>Zollstock</area>
+  <zipcode>50969</zipcode>
+  <city>Köln</city>
+  <coordinates>50.900669,6.943883</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Südfriedhof]]></cardname>
+  <cardnamegb><![CDATA[Cologne South Cemetary]]></cardnamegb>
+  <district>Rodenkirchen</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005374</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Südfriedhof]]></name>
+  <street><![CDATA[Kendenicher Str. 4]]></street>
+  <area>Zollstock</area>
+  <zipcode>50969</zipcode>
+  <city>Köln</city>
+  <coordinates>50.900992,6.942707</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Südfriedhof]]></cardname>
+  <cardnamegb><![CDATA[Cologne South Cemetary]]></cardnamegb>
+  <district>Rodenkirchen</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/37-1.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005357</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Forstbotanischer Garten]]></name>
+  <street><![CDATA[Schillingsrotter Straße  100]]></street>
+  <area>Rodenkirchen</area>
+  <zipcode>50996</zipcode>
+  <city>Köln</city>
+  <coordinates>50.883148,6.987868</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[]]></cardname>
+  <cardnamegb><![CDATA[]]></cardnamegb>
+  <district>Rodenkirchen</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Di: 12.00 - 18.00 Uhr; Do: 11.00 - 19.00 Uhr; Fr: 10.00 - 18.00 Uhr; Sa: 10.00 - 14.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Tue: 12 p.m. to 6 p.m.; Thu: 11 a.m. to 7 p.m.; Fri: 10 a.m. to 6 p.m.; Sat: 10 a.m. to 2 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/34.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005355</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[U-Bahn Station Friesenplatz (unterirdisch)]]></name>
+  <street><![CDATA[Friesenplatz  1 - 15]]></street>
+  <area>Neustadt Nord</area>
+  <zipcode>50672</zipcode>
+  <city>Köln</city>
+  <coordinates>50.940479,6.939691</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[U-Bahn Station Friesenplatz (unterirdisch)]]></cardname>
+  <cardnamegb><![CDATA[Underground Station Friesenplatz (underground)]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €;Die Toilette befindet sich in der U-Bahn Station Friesenplatz unterirdisch.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €0.50;The toilet is situated in the Underground of the subway station.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 8.00 - 21.00 Uhr;Sa: 10.00 - 20.00 Uhr;So und Feiertag: 10.00 - 18.00 Uhr;Heiligabend (24.12): 8.00 - 16.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 8 a.m. to 9 p.m.;Sat: 10 a.m. to 8 p.m.;Sun and public holidays: 10.00 a.m. to 6 p.m.;Christmas Eve (24.12.): 8 a.m. to 4 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/26.jpeg</image>
+  <infrastructure>5,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005354</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[City-Toilette Mauthgasse]]></name>
+  <street><![CDATA[Mauthgasse  1]]></street>
+  <area>Neustadt Nord</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.938347,6.962204962204</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[City-Toilette]]></cardname>
+  <cardnamegb><![CDATA[City toilet]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €0.50; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Do: 10.00 - 20.00 Uhr;Fr + Sa: 10.00 - 23.00 Uhr;So + Feiertag: 10.00 - 21.00 Uhr;Heiligabend (24.12): 8.00 - 16.00 Uhr;Silvester (31.12.): 8.00 - 1.30 Uhr;Neujahr (1.1.): 10.00 - 18.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Thu: 10 a.m. to 8 p.m.;Fri + Sat: 10 a.m. to 11 p.m.;Sun + public holidays: 10 a.m. to 9 p.m.;Christmas Eve (24.12.): 8 a.m. to 4 p.m.;New Year's Eve (31.12): 8 a.m. to 1.30 a.m.;New Year (1.1.): 10 a.m. to 6 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/25-1.jpeg</image>
+  <infrastructure>1,5,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005352</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[Urilift Bayenwerft]]></name>
+  <street><![CDATA[Am Bayenturm]]></street>
+  <area>Altstadt Süd</area>
+  <zipcode>50678</zipcode>
+  <city>Köln</city>
+  <coordinates>50.927921,6.963361</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Urilift Bayenwerft]]></cardname>
+  <cardnamegb><![CDATA[Urilift Bayenwerft]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Versenkbarer Urilift; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of Charge;Pop-up urinal; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 20.00 - 6.30 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 p.m. to 6.30 a.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/16-1.jpeg</image>
+  <infrastructure>4,5,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005351</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Historisches Rathaus]]></name>
+  <street><![CDATA[Rathausplatz 2]]></street>
+  <area>Altstadt Nord</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.938534,6.958989</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Historisches Rathaus]]></cardname>
+  <cardnamegb><![CDATA[Historic Town Hall]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Di - Fr: 10.00 - 18.00 Uhr;Do: 10.00 - 22.00 Uhr;Sa, So + Feiertag: 11.00 - 18.00 Uhr]]></opening>
+  <openinggb><![CDATA[Tue - Fri: 10 a.m. to 6 p.m.;Thu: 10 a.m. to 10 p.m.;Sat, Sun + public holidays: 11 a.m. to 6 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/9-1.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005350</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Spanischer Bau]]></name>
+  <street><![CDATA[Rathausplatz  4]]></street>
+  <area>Altstadt Nord</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.938534,6.958989</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Spanischer Bau]]></cardname>
+  <cardnamegb><![CDATA[Spanish Building]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Mi, Do: 8.00 - 16.00 Uhr;Di: 8.00 - 18.00 Uhr;Fr: 8.00 - 12.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Wed, Thu: 8 a.m. to 4 p.m.;Tue: 8 a.m. to 6 p.m.;Fri: 8 a.m. to 12.p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/8.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005349</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Kundenzentrum Innenstadt]]></name>
+  <street><![CDATA[Laurenzplatz  1]]></street>
+  <area>Altstadt Nord</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.938549,6.957325</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Kundenzentrum Innenstadt]]></cardname>
+  <cardnamegb><![CDATA[Central Customer Service Center]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 7.00 - 19.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 7 a.m. to 7 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/6.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005348</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Stadtbibliothek]]></name>
+  <street><![CDATA[Josef-Haubrich-Hof 1]]></street>
+  <area>Altstadt Süd</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.934361,6.949366</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Stadtbibliothek]]></cardname>
+  <cardnamegb><![CDATA[Municipal library]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Di - Do: 10.00 - 20.00 Uhr;Mi - Fr: 10.00 - 18.00 Uhr;Sa: 10.00 - 15.00 Uhr]]></opening>
+  <openinggb><![CDATA[Tue - Thu: 10 a.m. to 8 p.m.;Wed - Fri: 10 a.m. to 6 p.m.;Sat: 10 a.m. to 3 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/5.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005347</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[City-Toilette Dom]]></name>
+  <street><![CDATA[Domkloster  4]]></street>
+  <area>Altstadt Nord</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.940853,6.957095</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[City-Toilette]]></cardname>
+  <cardnamegb><![CDATA[City toilet]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €;Zahlung mit Kreditkarte möglich.;Toilette befindet sich an der Südseite vom Dom und verfügt über ein modernes Speed-Gate für den Einlass. ; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €0.50;Credit cards accepted.;Toilet is situated at the south side of the cathedral and can be accessed through a modern speed gate entrance system.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - So: 8.00 - 21.00 Uhr;Heiligabend (24.12): 8.00 - 16.00 Uhr;Silvester (31.12.): 8.00 - 1.00 Uhr;Neujahr (1.1.): 10.00 - 18.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8 a.m. to 9 p.m.;Christmas Eve (24.12.): 8 a.m. to 4 p.m.;New Year's Eve (31.12): 8 a.m. to 1 a.m.;New Year (1.1.): 10 a.m. to 6 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/0-1.jpeg</image>
+  <infrastructure>1,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005344</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Bezirksrathaus Rodenkirchen]]></name>
+  <street><![CDATA[Hauptstraße  85]]></street>
+  <area>Rodenkirchen</area>
+  <zipcode>50996</zipcode>
+  <city>Köln</city>
+  <coordinates>,50.892204,6.996971</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Bezirksrathaus Rodenkirchen]]></cardname>
+  <cardnamegb><![CDATA[District Town Hall Rodenkirchen]]></cardnamegb>
+  <district>Rodenkirchen</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; Startdaten]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Mi, Fr: 7.30 - 12.00 Uhr;Di: 9.30 - 18.00 Uhr;Do: 7.30 - 16.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Wed, Fri: 7.30 a.m. to 12 p.m.;Tue: 9.30 a.m. to 6 p.m.;Thu: 7.30 a.m. to 4 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/33.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005168</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Worringen]]></name>
+  <street><![CDATA[Hackhauser Weg 22]]></street>
+  <area>Worringen</area>
+  <zipcode>50769</zipcode>
+  <city>Köln</city>
+  <coordinates>51.062656,6.860061</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Friedhof Worringen]]></cardname>
+  <cardnamegb><![CDATA[Cemetery Worringen]]></cardnamegb>
+  <district>Chorweiler</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/70.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005169</uid>
+  <type><![CDATA[Friedhofstoilette]]></type>
+  <name><![CDATA[Friedhof Schönrather Hof (Mülheim)]]></name>
+  <street><![CDATA[Haslacher Weg 23 d]]></street>
+  <area>Mülheim</area>
+  <zipcode>51063</zipcode>
+  <city>Köln</city>
+  <coordinates>50.984886,7.005165</coordinates>
+  <phone>friedhofstoiletten@stadt-koeln.de</phone>
+  <cardname><![CDATA[Friedhof Schönrather Hof (Mülheim)]]></cardname>
+  <cardnamegb><![CDATA[Cemetery Schönrather Hof]]></cardnamegb>
+  <district>Mülheim</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Während der Öffnungszeiten des Friedhofs.]]></opening>
+  <openinggb><![CDATA[During opening times of the cemetary.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/97.jpeg</image>
+  <infrastructure>8,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005171</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Früh em Veedel]]></name>
+  <street><![CDATA[Chlodwigplatz 28]]></street>
+  <area>Altstadt Süd</area>
+  <zipcode>50670</zipcode>
+  <city>Köln</city>
+  <coordinates>50.922070,6.959809</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Früh em Veedel]]></cardname>
+  <cardnamegb><![CDATA[Früh em Veedel]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Di - Do: 11.00 - 24.00 Uhr;Fr und Sa: 11.00 - 1.00 Uhr;Mo und So: geschlossen]]></opening>
+  <openinggb><![CDATA[Tue - Thu: 11.00 a.m. to Midnight; Fri and Sat: 11.00 a.m. to 1.00 a.m.; Mon and Sun: closed]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005366</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Brauhaus Früh am Dom]]></name>
+  <street><![CDATA[Am Hof 12-18]]></street>
+  <area>Altstadt Süd</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.940175,6.956963</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Brauhaus Früh am Dom]]></cardname>
+  <cardnamegb><![CDATA[Brauhaus Früh am Dom]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 8.00 - 24.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sun: 8.00 a.m. to Midnight]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005367</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Leone im Rheinauhafen]]></name>
+  <street><![CDATA[Kranhaus Süd, Im Zollhafen 24]]></street>
+  <area>Altstadt Süd</area>
+  <zipcode>50678</zipcode>
+  <city>Köln</city>
+  <coordinates>50.925761,6.966425</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Leone im Rheinauhafen]]></cardname>
+  <cardnamegb><![CDATA[Leone im Rheinauhafen]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: ab 8.00 Uhr;Sa, So und Feiertags: ab 10.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: from 8.00 a.a.;Sat, Sun and Public holidays: from 10.00 a.a.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>7,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005368</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Dom Hotel am Römerbrunnen]]></name>
+  <street><![CDATA[Komödienstr. 54]]></street>
+  <area>Altstadt Nord</area>
+  <zipcode>50677</zipcode>
+  <city>Köln</city>
+  <coordinates>50.941540,6.953801</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Dom Hotel am Römerbrunnen]]></cardname>
+  <cardnamegb><![CDATA[Dom Hotel am Römerbrunnen]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 1,00 €; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €1.00; ]]></descriptiongb>
+  <opening><![CDATA[Täglich: 7.00 - 23.00 Uhr]]></opening>
+  <openinggb><![CDATA[Daily from 7.00 a.m. to 11.00 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>4,7,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005369</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Gloria]]></name>
+  <street><![CDATA[Apostelnstr. 11]]></street>
+  <area>Altstadt Nord</area>
+  <zipcode>50667</zipcode>
+  <city>Köln</city>
+  <coordinates>50.937579,6.944943</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Gloria]]></cardname>
+  <cardnamegb><![CDATA[Gloria]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: € 0.50; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Sa: 10.00 - 19:00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Sat: 10.00 a.m. to 7.00 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.awbkoeln.de/typo3temp/_processed_/csm_HTK_Gloria_3f1cbe4928.jpg</image>
+  <infrastructure>4,7,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005166</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Stadthaus Chorweiler]]></name>
+  <street><![CDATA[Athener Ring 4]]></street>
+  <area>Chorweiler</area>
+  <zipcode>50765</zipcode>
+  <city>Köln</city>
+  <coordinates>51.021740,6.892948</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Stadthaus Chorweiler]]></cardname>
+  <cardnamegb><![CDATA[Chorweiler citizen registration office]]></cardnamegb>
+  <district>Chorweiler</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Di, Do: 8.00 - 16.00 Uhr;Mi, Fr: 8.00 - 12.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Tue, Thu: 8 a.m. to 4 p.m.;Wed, Fri: 8 a.m. to 12 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/68.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005155</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Fachhochschule Köln]]></name>
+  <street><![CDATA[Betzdorfer Str. 2]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.935497,50.935497</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Altbau der Fachhochschule Köln]]></cardname>
+  <cardnamegb><![CDATA[Cologne University of Applied Sciences (Old building)]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Toilette befindet sich im Altbau der Fachhochschule.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;Toilet is located in the old part of the university.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 07.00 - 23.00 Uhr;Sa: 8.00 - 14.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 7 a.m. to 11 p.m.;Sat: 8 a.m to 2 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/237.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005372</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Fachhochschule Köln]]></name>
+  <street><![CDATA[Betzdorfer Str. 2]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.934669,6.987585</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Fachhochschule Köln]]></cardname>
+  <cardnamegb><![CDATA[Cologne University of Applied Sciences ]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos;Die Toilette befindet sich im Hauptgebäude der Fachhochschule.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge;Toilet is located in the main building of the university.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 07.00 - 23.00 Uhr;Sa: 8.00 - 14.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 7 a.m. to 11 p.m.;Sat: 8 a.m to 2 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/238-1.jpeg</image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005373</uid>
+  <type><![CDATA[Toilette in öffentlichen Einrichtungen]]></type>
+  <name><![CDATA[Stadthaus Deutz]]></name>
+  <street><![CDATA[Willy-Brandt-Platz 2]]></street>
+  <area>Deutz</area>
+  <zipcode>50679</zipcode>
+  <city>Köln</city>
+  <coordinates>50.939142,6.981931</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Stadthaus Deutz]]></cardname>
+  <cardnamegb><![CDATA[Townhouse Deutz]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: Kostenlos; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; ]]></descriptiongb>
+  <opening><![CDATA[Mo, Mi, Do: 8.00 - 16.00 Uhr;Di: 8.00 - 18.00 Uhr;Fr: 8.00 - 12.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon, Wed, Thu: 8 a.m. to 4 p.m.;Tue: 8 a.m. to 6 p.m.;Fri: 8 a.m. to 12.p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image></image>
+  <infrastructure>1,6,11</infrastructure>
+ </address>
+ <address>
+  <uid>1005159</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[U-Bahn Station Ebertplatz (unterirdisch)]]></name>
+  <street><![CDATA[Ebertplatz 23]]></street>
+  <area>Neustadt Nord</area>
+  <zipcode>50668</zipcode>
+  <city>Köln</city>
+  <coordinates>50.950832,6.958569</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[U-Bahn Station Ebertplatz (unterirdisch)]]></cardname>
+  <cardnamegb><![CDATA[Underground station Ebertplatz (underground)]]></cardnamegb>
+  <district>Innenstadt</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €;Die Toilette befindet sich in der U-Bahn Station Ebertplatz unterirdisch.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: €0.50;Toilet is situated in the underground of the station.; ]]></descriptiongb>
+  <opening><![CDATA[Mo-Fr: 08.00 - 18.00 Uhr;Sa: 10.00 - 20.00 Uhr;So + Feiertag: 10.00 - 18.00 Uhr;Heiligabend (24.12): 8.00 - 16.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon to Fri: 8 a.m. to 6 p.m.;Sat: 10 a.m. to 8 p.m.;Sun and public holidays: 10 a.m. to 6 p.m.;Christmas Eve (24.12.): 8 a.m. to 4 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/24-1.jpeg</image>
+  <infrastructure>1,5,9</infrastructure>
+ </address>
+ <address>
+  <uid>1005163</uid>
+  <type><![CDATA[City-Toilette]]></type>
+  <name><![CDATA[U-Bahn Station Venloer Str./Gürtel]]></name>
+  <street><![CDATA[Venloer Str. 350]]></street>
+  <area>Ehrenfeld</area>
+  <zipcode>50825</zipcode>
+  <city>Köln</city>
+  <coordinates>50.950150,6.916653</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[U-Bahn Station Venloer/Gürtel]]></cardname>
+  <cardnamegb><![CDATA[Underground station Venloer/Gürtel]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsgebühr: 0,50 €; Die Toiletten befindet sich in der U-Bahn-Haltestelle unterirdisch.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: € 0.50; The toilet is situated in the underground of the station.; ]]></descriptiongb>
+  <opening><![CDATA[Mo - Fr: 8.00 - 21.00 Uhr;Sa: 10.00 - 20.00 Uhr;So und Feiertag: 10.00 - 18.00 Uhr;Heiligabend (24.12): 8.00 - 16.00 Uhr]]></opening>
+  <openinggb><![CDATA[Mon - Fri: 8 a.m. to 9 p.m.;Sat: 10 a.m. to 8 p.m.;Sun and public holidays: 10.00 a.m. to 6 p.m.;
+Christmas Eve (24.12.): 8 a.m. to 4 p.m.]]></openinggb>
+  <start></start>
+  <stop></stop>
+  <image>http://www.stadt-koeln.de/mediaasset/bilder/freizeit/toiletten/219.jpeg</image>
+  <infrastructure>5,11</infrastructure>
+ </address>
+</addresses>

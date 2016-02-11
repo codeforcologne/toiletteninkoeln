@@ -1,0 +1,22 @@
+ <address>
+  <uid>1005483</uid>
+  <type><![CDATA[HappyToilet Köln]]></type>
+  <name><![CDATA[Biergarten Rathenauplatz]]></name>
+  <street><![CDATA[Rathenauplatz]]></street>
+  <area>Neustadt-Süd</area>
+  <zipcode>50674</zipcode>
+  <city>Köln</city>
+  <coordinates>50.931407,6.935809</coordinates>
+  <phone>Startdaten</phone>
+  <cardname><![CDATA[Biergarten Rathenauplatz]]></cardname>
+  <cardnamegb><![CDATA[Biergarten Rathenauplatz]]></cardnamegb>
+  <district>Ehrenfeld</district>
+  <description><![CDATA[Nutzungsbebühr: Kostenlos;Ein Trinkgeld ist freiwillig.; ]]></description>
+  <descriptiongb><![CDATA[Usage Fee: free of charge; Tips are voluntary.; ]]></descriptiongb>
+  <opening><![CDATA[Geöffnet in der Sommersaison von April bis September bei schönem Wetter.]]></opening>
+  <openinggb><![CDATA[Opened during summer season from April to September when the weather is nice.]]></openinggb>
+  <start>2015-04-01</start>
+  <stop>2015-09-30</stop>
+  <image></image>
+  <infrastructure>3,4,7,11</infrastructure>
+ </address>
