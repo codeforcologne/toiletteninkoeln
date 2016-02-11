@@ -104,24 +104,20 @@ function syncSidebar() {
 }
 
 /* Basemap Layers */
+var attr = '<h4>Attribution</h4><a href=\'https://github.com/bmcbride/bootleaf\' target=\'_blank\'>Bootleaf</a> by <a href=\'http://bryanmcbride.com\'>bryanmcbride.com</a>, '
+	+ 'Tiles courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png">, '
+	+ 'Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA, '
+	+ '<a href=\'http://www.offenedaten-koeln.de/\' target=\'_blank\'>Offene Daten K&ouml;ln</a>, '
+	+ '<a href=\'http://getbootstrap.com/\' target=\'_blank\'>Bootstrap 3</a>, <a href=\'http://leafletjs.com/\' target=\'_blank\'>Leaflet</a>, '
+	+ '<a href=\'https://www.datatables.net\' target=\'_blank\'>DataTables</a>, '
+	+ '<a href="https://github.com/Leaflet/Leaflet.markercluster" target="_blank">leaflet marker cluster plugin</a>, '
+	+ '<a href="http://twitter.github.io/typeahead.js/" target="_blank">typeahead.js</a>';
+
 var mapquestOSM = L.tileLayer("https://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png", {
   maxZoom: 19,
   subdomains: ["otile1-s", "otile2-s", "otile3-s", "otile4-s"],
-  attribution: 'Tiles courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="https://developer.mapquest.com/content/osm/mq_logo.png">. Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA.'
+  attribution: attr
 });
-var mapquestOAM = L.tileLayer("https://{s}.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.jpg", {
-  maxZoom: 18,
-  subdomains: ["otile1-s", "otile2-s", "otile3-s", "otile4-s"],
-  attribution: 'Tiles courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a>. Portions Courtesy NASA/JPL-Caltech and U.S. Depart. of Agriculture, Farm Service Agency'
-});
-var mapquestHYB = L.layerGroup([L.tileLayer("https://{s}.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.jpg", {
-  maxZoom: 18,
-  subdomains: ["otile1-s", "otile2-s", "otile3-s", "otile4-s"]
-}), L.tileLayer("https://{s}.mqcdn.com/tiles/1.0.0/hyb/{z}/{x}/{y}.png", {
-  maxZoom: 19,
-  subdomains: ["otile1-s", "otile2-s", "otile3-s", "otile4-s"],
-  attribution: 'Labels courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="https://developer.mapquest.com/content/osm/mq_logo.png">. Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA. Portions Courtesy NASA/JPL-Caltech and U.S. Depart. of Agriculture, Farm Service Agency'
-})]);
 
 /* Overlay Layers */
 var highlight = L.geoJson(null);
@@ -136,11 +132,11 @@ var boroughs = L.geoJson(null, {
   style: function (feature) {
     return {
 		fillColor : '#000000',
-		fillOpacity : 0.2,
+		fillOpacity : 0.1,
 		color : '#ffffff',
 		dashArray : '3',
 		fill : true,
-		opacity : 1,
+		opacity : 0.1,
 		clickable : false,
 		weight : 3
     };
@@ -322,7 +318,7 @@ var groupedOverlays = {
     "<img src='assets/img/awb.png' width='24' height='28'>&nbsp;AWB Toiletten": awbLayer
   },
   "Reference": {
-    "Stadtteile": boroughs
+	  "<img src='assets/img/wappen.gif' width='24' height='28'>&nbsp;Stadtteile" : boroughs
   }
 };
 
