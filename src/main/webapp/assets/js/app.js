@@ -183,6 +183,16 @@ var awbs = L.geoJson(null, {
       content = content + "<tr><th>Name</th><td>" + feature.properties.cardname + "</td></tr>";
       content = content + "<tr><th>Addresse</th><td>" + feature.properties.street + "<br/>" + feature.properties.zipcode + " " + feature.properties.city + "</td></tr>";
       content = content + "<tr><th>Öffnungszeiten</th><td>" + feature.properties.opening + "</td></tr>";
+      if (feature.properties.infrastructure) {
+    	  content = content + "<tr><th>Eigenschaften</th>";
+    	  content = content + "<td>";
+    	  for (var key in feature.properties.infrastructure) {
+    		  if (feature.properties.infrastructure.hasOwnProperty(key)) {
+    	    	  content = content + feature.properties.infrastructure[key] + "<br/>";
+    		  }
+    	  }
+    	  content = content + "</td></tr>";
+      }
       if (feature.properties.image) {
           content = content + "<tr><th>Bild</th><td><img src='" + feature.properties.image + "' style='width:100px'/></td></tr>";
       }

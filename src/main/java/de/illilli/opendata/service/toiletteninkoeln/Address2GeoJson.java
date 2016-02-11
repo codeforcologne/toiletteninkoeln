@@ -47,11 +47,7 @@ public class Address2GeoJson {
 		properties.put("image", address.image == null ? "" : address.image);
 		Map<String, String> infrastructureMap = new InfrastructureMapper(address.infrastructure).getMap();
 		properties.put("infrastructure", infrastructureMap);
-
 		addressGeoJson = new AddressGeoJson(id, properties, geometry);
-
-		InfrastructureEnum.babywickeltisch.getValue();
-		InfrastructureEnum.getValueByKey(1);
 	}
 
 	public GeoJson getGeoJsonObject() {
