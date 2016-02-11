@@ -23,7 +23,8 @@ public enum InfrastructureEnum {
 	barrierefrei("Barrierefrei (z.T. eingeschränkt)"), h24geoeffnet("24h geöffnet"), babywickeltisch(
 			"Baby-Wickeltisch"), urinal("Urinal"), citytoilet("City-Toilette"), oefftoilet(
 					"Toilette in öffentlichen Einrichtungen"), happytoilet("HappyToilet Köln"), gruentoilet(
-							"Toilette in Grünanlagen"), empty9(""), empty10(""), kostenlos("Kostenlos");
+							"Toilette in Grünanlagen"), empty9("Kostenpflichtig"), empty10(
+									"Euro WC-Schlüssel"), kostenlos("Kostenlos");
 
 	private String value;
 
