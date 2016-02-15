@@ -89,3 +89,7 @@ Der Service wurd in JAVA implementiert und kann als web-Applikation z.B. mit ein
 
     git clone https://github.com/weberius/toiletteninkoeln.git
     maven clean install
+
+## Oberfläche
+
+Nach Installation der Web-Applikation steht eine einfache Web-Oberfläche zur Verfügung. Sie läßt sich z.B. über [http://localhost:8080/toiletteninkoeln](http://localhost:8080/toiletteninkoeln) aufrufen.
