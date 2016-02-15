@@ -49,12 +49,12 @@ public class Address2GeoJsonTest {
 
 	}
 
-	private Address getAddress() {
-		InputStream inputStream = this.getClass().getResourceAsStream("/address-1005483.xml");
-		XmlMapper mapper = new XmlMapper();
-		Address address = new Address();
+	private AddressBo getAddress() {
+		AddressBo address = null;
 		try {
-			address = mapper.readValue(inputStream, Address.class);
+			InputStream inputStream = this.getClass().getResourceAsStream("/address-1005483.xml");
+			XmlMapper mapper = new XmlMapper();
+			address = new AddressBo(mapper.readValue(inputStream, Address.class));
 		} catch (JsonParseException e) {
 			logger.error(e);
 		} catch (JsonMappingException e) {

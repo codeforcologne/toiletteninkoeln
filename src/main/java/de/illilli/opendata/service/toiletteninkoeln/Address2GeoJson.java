@@ -10,7 +10,7 @@ import org.geojson.Point;
 import de.illilli.opendata.service.GeoJson;
 
 /**
- * This class changes a Address-Object to GeoJson-Object, to use in a
+ * This class changes a AddressBo-Object to GeoJson-Object, to use in a
  * FeatureCollection. All conversion is made here; none in the facade
  * implementation.
  */
@@ -18,34 +18,34 @@ public class Address2GeoJson {
 
 	private GeoJson addressGeoJson;
 
-	public Address2GeoJson(Address address) {
+	public Address2GeoJson(AddressBo address) {
 
-		String id = Integer.toString(address.uid);
+		String id = Integer.toString(address.getUid());
 
 		LngLatAlt coordinate = new LngLatAlt();
-		coordinate.setLatitude(new CoordinatsParser(address.coordinates).getLat());
-		coordinate.setLongitude(new CoordinatsParser(address.coordinates).getLng());
+		coordinate.setLatitude(address.getLat());
+		coordinate.setLongitude(address.getLng());
 		GeoJsonObject geometry = new Point(coordinate);
 
 		Map<String, Object> properties = new Hashtable<String, Object>();
-		properties.put("zipcode", address.zipcode);
-		properties.put("city", address.city);
-		properties.put("street", address.street);
-		properties.put("type", address.type);
-		properties.put("name", address.name);
-		properties.put("area", address.area);
-		properties.put("phone", address.phone == null ? "" : address.phone);
-		properties.put("cardname", address.cardname);
-		properties.put("cardnamegb", address.cardnamegb);
-		properties.put("district", address.district == null ? "" : address.district);
-		properties.put("description", address.description);
-		properties.put("descriptiongb", address.descriptiongb);
-		properties.put("opening", address.opening);
-		properties.put("openinggb", address.openinggb);
-		properties.put("start", address.start == null ? "" : address.start);
-		properties.put("stop", address.stop == null ? "" : address.stop);
-		properties.put("image", address.image == null ? "" : address.image);
-		Map<String, String> infrastructureMap = new InfrastructureMapper(address.infrastructure).getMap();
+		properties.put("zipcode", address.getZipcode());
+		properties.put("city", address.getCity());
+		properties.put("street", address.getStreet());
+		properties.put("type", address.getType());
+		properties.put("name", address.getName());
+		properties.put("area", address.getArea());
+		properties.put("phone", address.getPhone() == null ? "" : address.getPhone());
+		properties.put("cardname", address.getCardname());
+		properties.put("cardnamegb", address.getCardnamegb());
+		properties.put("district", address.getDistrict() == null ? "" : address.getDistrict());
+		properties.put("description", address.getDescription());
+		properties.put("descriptiongb", address.getDescriptiongb());
+		properties.put("opening", address.getOpening());
+		properties.put("openinggb", address.getOpeninggb());
+		properties.put("start", address.getStart() == null ? "" : address.getStart());
+		properties.put("stop", address.getStop() == null ? "" : address.getStop());
+		properties.put("image", address.getImage() == null ? "" : address.getImage());
+		Map<String, String> infrastructureMap = address.getInfrastructureMap();
 		properties.put("infrastructure", infrastructureMap);
 		addressGeoJson = new AddressGeoJson(id, properties, geometry);
 	}

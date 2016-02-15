@@ -2,6 +2,7 @@ package de.illilli.opendata.service.toiletteninkoeln;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
+import java.util.List;
 
 import org.geojson.Feature;
 import org.geojson.FeatureCollection;
@@ -21,8 +22,9 @@ public class AllToilettesGeoJsonFacade implements Facade {
 
 	public AllToilettesGeoJsonFacade() throws MalformedURLException, IOException {
 		AskFor<Addresses> askFor = new AskForAddresses();
-		Addresses addresses = askFor.getData();
-		for (Address address : addresses.address) {
+		List<AddressBo> addressList = new AddressDao(askFor.getData()).getAddressList();
+
+		for (AddressBo address : addressList) {
 			GeoJson gjo = new Address2GeoJson(address).getGeoJsonObject();
 			Feature feature = new Feature();
 			feature.setGeometry(gjo.getGeometry());
