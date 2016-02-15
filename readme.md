@@ -12,7 +12,7 @@ Hier wird die XML-Struktur in eine JSON-Struktur umgewandelt.
 
 ### /toiletteninkoeln/service/awb/geojson
 
-Hier wird die XML-Struktur dergestalt in JSON umgeändert, dass sie in Form einer [GeoJson](http://geojson.org/) - Struktur vorliegt.
+Hier wird die XML-Struktur in [GeoJson](http://geojson.org/) umgewandelt.
 
 ## Datenstruktur
 
