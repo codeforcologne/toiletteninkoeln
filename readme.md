@@ -39,6 +39,6 @@ Das Feld infrastructure bietet Zugriff auf die Infrastruktur an engegebenem Ort.
 - 6: Toilette in öffentlichen Einrichtungen
 - 7: HappyToilet Köln
 - 8: Toilette in Grünanlagen
-- 9: 
-- 10: 
+- 9: Kostenpflichtig
+- 10: Euro WC-Schlüssel
 - 11: Kostenlos
