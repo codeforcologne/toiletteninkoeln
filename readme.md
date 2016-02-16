@@ -1,18 +1,20 @@
 #Toiletten In Köln
 
-Diese Webapplikation zeigt die öffentlich zugänglichen Toiletten. Sie basiert auf den durch das Portal [Offene Daten Köln](http://offenedaten-koeln.de/) zur Verfügung gestellten Daten [Oeffentliche Toiletten Koeln](http://offenedaten-koeln.de/dataset/oeffentliche-toiletten-koeln). Sie unterscheidet sich von der Webseite [Schnell Toilette in Köln finden](http://www.toiletten.koeln/toilette-finden.html) in der Form, dass sie direkt die Toiletten in der Umgebung anzeigt.
+Diese Webapplikation ermöglicht den Zugriff auf die öffentlich zugänglichen Toiletten. Sie basiert auf den durch das Portal [Offene Daten Köln](http://offenedaten-koeln.de/) zur Verfügung gestellten Daten [Oeffentliche Toiletten Koeln](http://offenedaten-koeln.de/dataset/oeffentliche-toiletten-koeln). 
+
+Ziel ist es einen differenzierten Zugang zu den Daten zu ermöglichen. Dies wird durch verschiedene Schnittstellen ermöglicht.
 
 ## Schnittstellen
 
-Es stehen zwei Schnittstellen zur Verfügung
+Es stehen folgende Schnittstellen zur Verfügung:
 
 ### /toiletteninkoeln/service/awb/json
 
-Hier wird die XML-Struktur in eine JSON-Struktur umgewandelt. 
+Hier wird die XML-Struktur in eine JSON-Struktur umgewandelt und alle verzeichnete Toiletten zur Verfügung gestellt.
 
 ### /toiletteninkoeln/service/awb/geojson
 
-Hier wird die XML-Struktur in [GeoJson](http://geojson.org/) umgewandelt.
+Hier wird die XML-Struktur in [GeoJson](http://geojson.org/) umgewandelt und alle verzeichneten Toiletten zur Verfügung gestellt. Zusatzinformationen werden im properties-Bereich des GeoJson zur Verfügung gestellt.
 
 ## Datenstruktur
 
@@ -85,11 +87,21 @@ Das Feld infrastructure ist insofern besonders, weil es zunächst nur Zahlen bei
 
 ## Installation
 
-Der Service wurd in JAVA implementiert und kann als web-Applikation z.B. mit einem Tomcat ausgeführt werden. Voraussetzung ist JAVA 7. Mit folgenden zwei Befehlen, läßt sich der Service auschecken und installieren:
+Der Service wurd in JAVA implementiert und kann als web-Applikation z.B. mit einem Tomcat ausgeführt werden. Voraussetzung ist JAVA 7. Mit folgenden Befehlen, läßt sich der Service über die Kommandozeile auschecken und bauen:
 
     git clone https://github.com/weberius/toiletteninkoeln.git
-    maven clean install
+    mvn clean install
+
+Dabei entsteht die Datei '{project.basedir}/target/toiletteninkoeln.war'. Diese kann z.B. in einen Tomcat oder jetty deployed werden.
+
+Alternativ kann der Service direkt von der Kommandozeile aus gestartet werden:
+
+    mvn jetty:run
+    
+Die Oberfläche kann dann unter [http://localhost:8080](http://localhost:8080) aufgerufen werden.
 
 ## Oberfläche
 
 Nach Installation der Web-Applikation steht eine einfache Web-Oberfläche zur Verfügung. Sie läßt sich z.B. über [http://localhost:8080/toiletteninkoeln](http://localhost:8080/toiletteninkoeln) aufrufen.
+
+
