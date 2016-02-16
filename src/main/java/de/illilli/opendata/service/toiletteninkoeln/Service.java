@@ -29,31 +29,15 @@ public class Service {
 
 	/**
 	 * <p>
-	 * Beispiel:
-	 * <a href="http://localhost:8080/toiletteninkoeln/service/awb/geojson">
-	 * /toiletteninkoeln/service/awb/geojson</a>
+	 * Beispiel: <a href="http://localhost:8080/toiletteninkoeln/service/awb">
+	 * /toiletteninkoeln/service/awb</a>
 	 * </p>
+	 *
 	 * 
-	 * @return
-	 * @throws MalformedURLException
-	 * @throws IOException
-	 */
-	@GET
-	@Produces({ MediaType.APPLICATION_JSON })
-	@Path("/awb/geojson")
-	public String getAllToilettesGeojson() throws MalformedURLException, IOException {
-		logger.info("get all awb toilettes locations");
-		request.setCharacterEncoding(ENCODING);
-		response.setCharacterEncoding(ENCODING);
-		Facade facade = new AllToilettesGeoJsonFacade();
-		return facade.getJson();
-	}
-
-	/**
 	 * <p>
 	 * Beispiel:
-	 * <a href="http://localhost:8080/toiletteninkoeln/service/awb/json">
-	 * /toiletteninkoeln/service/awb/json</a>
+	 * <a href="http://localhost:8080/toiletteninkoeln/service/awb?geojson">
+	 * /toiletteninkoeln/service/awb?geojson</a>
 	 * </p>
 	 * 
 	 * @return
@@ -62,12 +46,18 @@ public class Service {
 	 */
 	@GET
 	@Produces({ MediaType.APPLICATION_JSON })
-	@Path("/awb/json")
+	@Path("/awb")
 	public String getAllToilettesJson() throws MalformedURLException, IOException {
 		logger.info("get all awb toilettes locations");
 		request.setCharacterEncoding(ENCODING);
 		response.setCharacterEncoding(ENCODING);
-		Facade facade = new AllToilettesJsonFacade();
+		boolean geojson = request.getParameter("geojson") != null;
+		Facade facade = null;
+		if (geojson) {
+			facade = new AllToilettesGeoJsonFacade();
+		} else {
+			facade = new AllToilettesJsonFacade();
+		}
 		return facade.getJson();
 	}
 

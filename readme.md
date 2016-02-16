@@ -8,11 +8,11 @@ Ziel ist es einen differenzierten Zugang zu den Daten zu ermöglichen. Dies wird
 
 Es stehen folgende Schnittstellen zur Verfügung:
 
-### /toiletteninkoeln/service/awb/json
+### /toiletteninkoeln/service/awb
 
 Hier wird die XML-Struktur in eine JSON-Struktur umgewandelt und alle verzeichnete Toiletten zur Verfügung gestellt.
 
-### /toiletteninkoeln/service/awb/geojson
+### /toiletteninkoeln/service/awb?geojson
 
 Hier wird die XML-Struktur in [GeoJson](http://geojson.org/) umgewandelt und alle verzeichneten Toiletten zur Verfügung gestellt. Zusatzinformationen werden im properties-Bereich des GeoJson zur Verfügung gestellt.
 

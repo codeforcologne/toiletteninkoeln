@@ -218,7 +218,7 @@ var awbs = L.geoJson(null, {
     }
   }
 });
-$.getJSON("data/awb.json", function (data) {
+$.getJSON("service/awb?geojson", function (data) {
   awbs.addData(data);
 });
 
