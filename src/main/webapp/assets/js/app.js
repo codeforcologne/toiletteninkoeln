@@ -224,7 +224,7 @@ $.getJSON("service/awb?geojson", function (data) {
 
 map = L.map("map", {
   zoom: 10,
-  center: [40.702222, -73.979378],
+  center: [50.94135, 6.95819],
   layers: [mapquestOSM, boroughs, markerClusters, highlight],
   zoomControl: false,
   attributionControl: false
@@ -440,6 +440,3 @@ if (!L.Browser.touch) {
 } else {
   L.DomEvent.disableClickPropagation(container);
 }
-
-markerClusters.addTo(map);
-
