@@ -182,7 +182,7 @@ var awbs = L.geoJson(null, {
       var content = "<table class='table table-striped table-bordered table-condensed'>";
       content = content + "<tr><th>Name</th><td>" + feature.properties.cardname + "</td></tr>";
       content = content + "<tr><th>Addresse</th><td>" + feature.properties.street + "<br/>" + feature.properties.zipcode + " " + feature.properties.city + "</td></tr>";
-      content = content + "<tr><th>Öffnungszeiten</th><td>" + feature.properties.opening + "</td></tr>";
+      content = content + "<tr><th>Öffnungszeiten</th><td>" + feature.properties.opening.split(';').join('</br>') + "</td></tr>";
       if (feature.properties.infrastructure) {
     	  content = content + "<tr><th>Eigenschaften</th>";
     	  content = content + "<td>";
@@ -440,3 +440,6 @@ if (!L.Browser.touch) {
 } else {
   L.DomEvent.disableClickPropagation(container);
 }
+
+markerClusters.addTo(map);
+
