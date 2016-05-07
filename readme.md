@@ -104,4 +104,6 @@ Die Oberfläche kann dann unter [http://localhost:8080](http://localhost:8080) a
 
 Nach Installation der Web-Applikation steht eine einfache Web-Oberfläche zur Verfügung. Sie läßt sich z.B. über [http://localhost:8080/toiletteninkoeln](http://localhost:8080/toiletteninkoeln) aufrufen.
 
+![Screenshot Toiletten In Köln](screenshot.png)
+
 
